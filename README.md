@@ -1,2 +1,2 @@
 # Imp_Scripts
-All important commands and scripts
+This repository contains DevOps related commands and scripts.
